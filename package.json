@@ -1,0 +1,11 @@
+{
+  "name": "nodii-express",
+  "version": "1.0.0",
+  "description": "nodejs expressjs",
+  "main": "server.js",
+  "author": "arm",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
